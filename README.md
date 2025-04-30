@@ -6,6 +6,7 @@
 - 📱 I enjoy building **custom apps and automation tools**—particularly for use cases like **[Discord](https://discord.com) integrations**, game telemetry tracking, and live analytical overlays.  
 - 🤝 I’m open to collaborating on projects involving **AI-enhanced interfaces**, **deep learning algorithm development**, **sports analytics**, and **competitive performance systems**.  
 - ⚡ *Fun fact:* I blend my background in **physics**, **mathematics**, **actuarial science**, and **data science** with a passion for gaming by creating **predictive systems**, **economic simulators**, and **match intelligence tools** for sports.  
+
 - 📫 Reach me here on [GitHub](https://github.com/TylerDoiron-CDO) or on Discord: `shezmu_thered`
 
 ---
