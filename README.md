@@ -31,8 +31,8 @@
 - [SQLAlchemy](https://www.sqlalchemy.org), [dbt (Data Build Tool)](https://www.getdbt.com)
 
 #### 🏐 Volleyball & Sports Analytics
-- [VolleyStation](https://volleystation.com), [DataVolley](https://www.dataproject.com/en/DataVolley4.aspx)  
-- [VolleyMetrics](https://volleymetrics.hudl.com), [Hudl](https://www.hudl.com), [Perfbook](https://www.perfbook.net), [Science Untangled](https://scienceuntangled.com)  
+- [VolleyStation](https://volleystation.com), [DataVolley](https://www.dataproject.com/Products/EN/en/Volleyball/DataVolley4), [VolleyMetrics](https://portal.volleymetrics.hudl.com/#/portal/dashboard), [Hudl](https://www.hudl.com)
+- [Perfbook](https://www.perfbook.net), [Science Untangled](https://untan.gl/) 
 - [Kinovea](https://www.kinovea.org)
 
 #### 🧠 Productivity, Dev & Collaboration
