@@ -25,32 +25,32 @@
   ---
     
   ### 🧠 Tech Stack & Tooling
-  
-  **🎮 Sports & Game Analytics**  
-  `VolleyStation`, `DataVolley`, `VolleyMetrics`, `Hudl`, `Balltime`, `Perfbook`, `Science Untangled`, `Kinovea`, `OBS`, `Discord API`
-  
-  **🛠 Infrastructure & MLOps**  
-  `AWS`, `Azure ML`, `IBM Watson Studio`, `Vertex AI`, `BigML`, `OpenNN`  
-  `Docker`, `Docker Compose`, `Kubernetes`, `FastAPI`, `Flask`, `Nginx`, `Gunicorn`  
-  `GitHub Actions`, `GitLab CI`, `Airflow`, `DVC`, `Prefect`, `MLflow Server`, `dbt`, `Terraform`
-  
-  **💾 Databases, ETL & Query Engines**  
-  `PostgreSQL`, `MySQL`, `DuckDB`, `BigQuery`, `Snowflake`, `SQL Server`, `MongoDB`, `Firebase`  
-  `pgAdmin`, `SQLAlchemy`, `Polars`, `Trino`, `Athena`, `Alteryx`, `Power Query`, `Dataiku`, `Talend`
-  
-  **🔌 APIs, Automation & Integration**  
+
+   **🔌 APIs, Automation & Integration**  
   `REST`, `GraphQL`, `Webhooks`, `OAuth2`, `Discord.py`, `Tweepy`, `Slack SDK`, `OBS WebSocket`  
   `Zapier`, `Make.com`, `Power Automate`, `n8n`, `Node-RED`
   
   **🧱 App & UI Development**  
   `Streamlit`, `Dash`, `React` (dashboards), `HTML/CSS`, `Tailwind`, `Framer Motion`, `Figma-to-React`  
   Custom overlay and telemetry interfaces for live sport/gaming data
-  
-  **📊 Business Intelligence & Reporting**  
+
+   **📊 Business Intelligence & Reporting**  
   `Power BI`, `Tableau`, `Google Data Studio`, `Looker Studio`, `Excel`, `Notion AI`, `Alteryx Designer`
+
+  **💾 Databases, ETL & Query Engines**  
+  `PostgreSQL`, `MySQL`, `DuckDB`, `BigQuery`, `Snowflake`, `SQL Server`, `MongoDB`, `Firebase`  
+  `pgAdmin`, `SQLAlchemy`, `Polars`, `Trino`, `Athena`, `Alteryx`, `Power Query`, `Dataiku`, `Talend`
+
+   **🛠 Infrastructure & MLOps**  
+  `AWS`, `Azure ML`, `IBM Watson Studio`, `Vertex AI`, `BigML`, `OpenNN`  
+  `Docker`, `Docker Compose`, `Kubernetes`, `FastAPI`, `Flask`, `Nginx`, `Gunicorn`  
+  `GitHub Actions`, `GitLab CI`, `Airflow`, `DVC`, `Prefect`, `MLflow Server`, `dbt`, `Terraform`
   
   **⚙️ Productivity, Diagramming & GIS**  
-  `VS Code`, `GitHub`, `Notion`, `Obsidian`, `Figma`, `draw.io`, `Miro`, `ArcGIS`, `QGIS`, `Discord`, `Zoom SDK`, `Google Workspace`
+  `VS Code`, `GitHub`, `Notion`, `Obsidian`, `Figma`, `draw.io`, `Miro`, `ArcGIS`, `QGIS`, `Discord`, `Zoom SDK`, `Google Workspace` 
+  
+  **🎮 Sports & Game Analytics**  
+  `VolleyStation`, `DataVolley`, `VolleyMetrics`, `Hudl`, `Balltime`, `Perfbook`, `Science Untangled`, `Kinovea`, `OBS`, `Discord API`
   
   ---
   
@@ -59,24 +59,24 @@
   **📊 Data Science & Machine Learning**  
   `pandas`, `numpy`, `scikit-learn`, `xgboost`, `lightgbm`, `catboost`, `tensorflow`, `torch`, `transformers` (HF)  
   `mlflow`, `wandb`, `seaborn`, `matplotlib`, `plotly`, `altair`
-  
-  **📈 Time Series & Forecasting**  
-  `statsmodels`, `prophet`, `darts`, `kats`, `tsibble` (R), `forecast` (R), `fable` (R), `TTR` (R)
-  
-  **📐 Statistical Modeling**  
-  `brms` (R), `rstanarm`, `lme4`, `car`, `emmeans`, `scipy`, `pingouin`, `pymer4`, `BayesFactor` (R)
-  
+
   **🧪 Data Cleaning & Feature Engineering**  
   `janitor`, `recipes`, `tidymodels` (R), `skimr`, `forcats`, `stringr`, `textclean`  
   `pandas`, `featuretools`, `category_encoders`, `polars`
-  
-  **🧬 Modeling Workflow & Automation**  
+
+   **📤 Deployment & APIs**  
+  `fastapi`, `flask`, `plumber` (R), `dash`, `streamlit`, `shiny`, `bokeh`
+
+   **🧬 Modeling Workflow & Automation**  
   `tidymodels`, `workflowsets`, `parsnip`, `caret`, `mlr3` (R)  
   `dvc`, `joblib`, `optuna`, `hyperopt`, `ray[tune]`
+
+   **📐 Statistical Modeling**  
+  `brms` (R), `rstanarm`, `lme4`, `car`, `emmeans`, `scipy`, `pingouin`, `pymer4`, `BayesFactor` (R)
   
-  **📤 Deployment & APIs**  
-  `fastapi`, `flask`, `plumber` (R), `dash`, `streamlit`, `shiny`, `bokeh`
-  
+  **📈 Time Series & Forecasting**  
+  `statsmodels`, `prophet`, `darts`, `kats`, `tsibble` (R), `forecast` (R), `fable` (R), `TTR` (R)
+    
   ---
   
   ### 💻 Programming Languages
