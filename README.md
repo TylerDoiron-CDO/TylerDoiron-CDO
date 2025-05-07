@@ -24,52 +24,33 @@
   
   ---
   
-  ### 🧠 Tech Stack & Tooling
-  
-  #### 📊 **Data Science & Machine Learning**
-  `Python` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `LightGBM`  
-  `TensorFlow` · `PyTorch` · `Hugging Face Transformers` · `CatBoost`  
-  `Streamlit` · `Dash` · `Plotly` · `Altair` · `Seaborn`  
-  `MLflow` · `Weights & Biases` · `JupyterLab` · `Colab`  
-  `Power BI` · `Tableau` · `Excel Power Query`
-  
-  #### ⏱️ **Time Series & Forecasting**
-  `Statsmodels` · `Prophet` · `ARIMA` · `Darts` · `Kats`  
-  Custom pipeline development for athlete monitoring, telemetry, and real-time analysis
-  
-  #### 🎮 **Sports & Game Analytics**
-  `VolleyStation` · `DataVolley` · `VolleyMetrics` · `Hudl`  
-  `Balltime` · `Perfbook` · `Science Untangled` · `Kinovea`  
-  Game telemetry integration with `OBS`, `Discord API`, and custom overlays
-  
-  #### 🛠️ **Infrastructure, MLOps & DevOps**
-  `AWS (EC2, S3, Lambda, SageMaker)` · `Azure ML`  
-  `Docker` · `Docker Compose` · `Kubernetes (basic)`  
-  `FastAPI` · `Flask` · `Nginx` · `Gunicorn`  
-  `GitHub Actions` · `GitLab CI` · `MLflow Tracking Server`  
-  `Airflow` · `DVC` · `Prefect` · `dbt`  
-  `Terraform` (basic infra-as-code support)
-  
-  #### 💾 **Databases, Warehousing & Query Engines**
-  `PostgreSQL` · `MySQL` · `DuckDB` · `BigQuery` · `Snowflake`  
-  `SQLAlchemy` · `Polars` · `Trino` · `Athena`  
-  `MongoDB` · `Firebase Realtime DB`
-  
-  #### 🔌 **APIs, Integration & Automation**
-  `RESTful APIs` · `GraphQL` · `Webhooks`  
-  `Discord.py` · `Tweepy` · `Slack SDK` · `OBS WebSocket API`  
-  `Zapier` · `Make.com` · `Power Automate`  
-  OAuth2 token management and secure API handling
-  
-  #### 🧱 **App & Interface Development**
-  `Streamlit` · `React` (basic use with dashboards) · `HTML/CSS`  
-  `Tailwind CSS` · `Framer Motion` · `Figma-to-React workflows`  
-  Custom dashboards for in-game overlays and live tracking
-  
-  #### ⚙️ **Productivity, Collaboration & GIS**
-  `VS Code` · `GitHub` · `Notion` · `Obsidian`  
-  `Figma` · `Miro` · `ArcGIS Online` · `QGIS`  
-  `Discord` · `Zoom SDK` · `Google Workspace`
+ ### 🧠 Tech Stack & Tooling
+
+**📊 Data Science & ML:**  
+`Python`, `Pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `LightGBM`, `TensorFlow`, `PyTorch`, `Transformers`, `CatBoost`,  
+`Streamlit`, `Dash`, `Plotly`, `Altair`, `Seaborn`, `MLflow`, `Weights & Biases`, `JupyterLab`, `Colab`, `Power BI`, `Tableau`, `Excel Power Query`
+
+**⏱ Time Series & Forecasting:**  
+`Statsmodels`, `Prophet`, `ARIMA`, `Darts`, `Kats` — plus custom pipelines for telemetry & real-time performance analysis
+
+**🎮 Sports & Game Analytics:**  
+`VolleyStation`, `DataVolley`, `VolleyMetrics`, `Hudl`, `Balltime`, `Perfbook`, `Science Untangled`, `Kinovea`, `OBS`, `Discord API`
+
+**🛠 Infra & MLOps:**  
+`AWS`, `Azure ML`, `Docker`, `Docker Compose`, `Kubernetes`, `FastAPI`, `Flask`, `Nginx`, `Gunicorn`,  
+`GitHub Actions`, `GitLab CI`, `Airflow`, `DVC`, `Prefect`, `MLflow Server`, `dbt`, `Terraform`
+
+**💾 Databases & Query Engines:**  
+`PostgreSQL`, `MySQL`, `DuckDB`, `BigQuery`, `Snowflake`, `SQLAlchemy`, `Polars`, `Trino`, `Athena`, `MongoDB`, `Firebase`
+
+**🔌 APIs & Automation:**  
+`REST`, `GraphQL`, `Webhooks`, `OAuth2`, `Discord.py`, `Tweepy`, `Slack SDK`, `OBS WebSocket`, `Zapier`, `Make.com`, `Power Automate`
+
+**🧱 App & UI Dev:**  
+`Streamlit`, `React` (dashboards), `HTML/CSS`, `Tailwind`, `Framer Motion`, `Figma-to-React`, live data overlays
+
+**⚙️ Productivity & GIS:**  
+`VS Code`, `GitHub`, `Notion`, `Obsidian`, `Figma`, `Miro`, `ArcGIS`, `QGIS`, `Discord`, `Zoom SDK`, `Google Workspace`
 
 ---
   
