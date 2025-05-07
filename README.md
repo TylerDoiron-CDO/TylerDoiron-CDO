@@ -27,7 +27,7 @@
  ### 🧠 Tech Stack & Tooling
 
 **📊 Data Science & ML:**  
-`Python`, `Pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `LightGBM`, `TensorFlow`, `PyTorch`, `Transformers`, `CatBoost`,  
+`Python`, `R`, `Pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `LightGBM`, `TensorFlow`, `PyTorch`, `Transformers`, `CatBoost`,  
 `Streamlit`, `Dash`, `Plotly`, `Altair`, `Seaborn`, `MLflow`, `Weights & Biases`, `JupyterLab`, `Colab`, `Power BI`, `Tableau`, `Excel Power Query`
 
 **⏱ Time Series & Forecasting:**  
