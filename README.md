@@ -26,29 +26,51 @@
   
   ### 🧠 Tech Stack & Tooling
   
-  #### 📊 **Data Science & ML**
+  #### 📊 **Data Science & Machine Learning**
   `Python` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `LightGBM`  
-  `TensorFlow` · `PyTorch` · `Transformers (Hugging Face)`  
-  `Streamlit` · `Dash` · `Plotly` · `Altair`  
+  `TensorFlow` · `PyTorch` · `Hugging Face Transformers` · `CatBoost`  
+  `Streamlit` · `Dash` · `Plotly` · `Altair` · `Seaborn`  
   `MLflow` · `Weights & Biases` · `JupyterLab` · `Colab`  
-  `Power BI` · `Tableau`
+  `Power BI` · `Tableau` · `Excel Power Query`
   
-  #### 🛠️ **Infra & MLOps**
-  `AWS` · `Azure` · `Docker` · `FastAPI` · `GitHub Actions`  
-  `Airflow` · `DVC` · `dbt` · `CI/CD`
+  #### ⏱️ **Time Series & Forecasting**
+  `Statsmodels` · `Prophet` · `ARIMA` · `Darts` · `Kats`  
+  Custom pipeline development for athlete monitoring, telemetry, and real-time analysis
   
-  #### 🗃 **Databases & Warehousing**
-  `PostgreSQL` · `DuckDB` · `BigQuery` · `Snowflake` · `SQLAlchemy`
-  
-  #### 🏐 **Volleyball & Sport Analytics**
+  #### 🎮 **Sports & Game Analytics**
   `VolleyStation` · `DataVolley` · `VolleyMetrics` · `Hudl`  
-  `Balltime` · `Perfbook` · `Science Untangled` · `Kinovea`
+  `Balltime` · `Perfbook` · `Science Untangled` · `Kinovea`  
+  Game telemetry integration with `OBS`, `Discord API`, and custom overlays
   
-  #### ⚙️ **Dev & Collaboration**
+  #### 🛠️ **Infrastructure, MLOps & DevOps**
+  `AWS (EC2, S3, Lambda, SageMaker)` · `Azure ML`  
+  `Docker` · `Docker Compose` · `Kubernetes (basic)`  
+  `FastAPI` · `Flask` · `Nginx` · `Gunicorn`  
+  `GitHub Actions` · `GitLab CI` · `MLflow Tracking Server`  
+  `Airflow` · `DVC` · `Prefect` · `dbt`  
+  `Terraform` (basic infra-as-code support)
+  
+  #### 💾 **Databases, Warehousing & Query Engines**
+  `PostgreSQL` · `MySQL` · `DuckDB` · `BigQuery` · `Snowflake`  
+  `SQLAlchemy` · `Polars` · `Trino` · `Athena`  
+  `MongoDB` · `Firebase Realtime DB`
+  
+  #### 🔌 **APIs, Integration & Automation**
+  `RESTful APIs` · `GraphQL` · `Webhooks`  
+  `Discord.py` · `Tweepy` · `Slack SDK` · `OBS WebSocket API`  
+  `Zapier` · `Make.com` · `Power Automate`  
+  OAuth2 token management and secure API handling
+  
+  #### 🧱 **App & Interface Development**
+  `Streamlit` · `React` (basic use with dashboards) · `HTML/CSS`  
+  `Tailwind CSS` · `Framer Motion` · `Figma-to-React workflows`  
+  Custom dashboards for in-game overlays and live tracking
+  
+  #### ⚙️ **Productivity, Collaboration & GIS**
   `VS Code` · `GitHub` · `Notion` · `Obsidian`  
-  `Figma` · `ArcGIS` · `Discord`
-  
-  ---
+  `Figma` · `Miro` · `ArcGIS Online` · `QGIS`  
+  `Discord` · `Zoom SDK` · `Google Workspace`
+---
   
   ### 📬 Connect With Me
   
