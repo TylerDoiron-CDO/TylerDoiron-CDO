@@ -81,9 +81,17 @@ Custom overlay and telemetry interfaces for live sport/gaming data
 
 ### 💻 Programming Languages
 
-**🧠 Advanced:** `Python`, `R`, `JavaScript`, `Java`, `C#`, `C++`, `LaTeX`, `VBA`, `Ruby`, `SQL`, `MATLAB`, `M` (Power Query)  
-**🧩 Intermediate:** `HTML`, `CSS`, `Bash`, `PowerShell`, `DAX`,  `Perl`, `Swift`, `Julia`
-**🔧 Basic:** `Markdown`, `Regex`, `YAML`, `Jinja`, `TypeScript`, `Go`, `Scala`, `SAS`, `SPSS`, `Stata`, `Kotlin`, `Rust`, `PHP`, `Haskell`, `Elixir`, `Prolog`
+### 💻 Programming Languages
+
+**🧠 Advanced:**  
+`Python`, `R`, `JavaScript`, `Java`, `C#`, `C++`, `LaTeX`, `VBA`, `Ruby`, `SQL`, `MATLAB`, `M` (Power Query)
+
+**🧩 Intermediate:**  
+`HTML`, `CSS`, `Bash`, `PowerShell`, `DAX`, `Perl`, `Swift`, `Julia`
+
+**🔧 Basic:**  
+`Markdown`, `Regex`, `YAML`, `Jinja`, `TypeScript`, `Go`, `Scala`, `SAS`, `SPSS`, `Stata`,  
+`Kotlin`, `Rust`, `PHP`, `Haskell`, `Elixir`, `Prolog`
 
 ---
   
