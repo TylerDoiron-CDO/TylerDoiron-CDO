@@ -81,8 +81,6 @@ Custom overlay and telemetry interfaces for live sport/gaming data
 
 ### 💻 Programming Languages
 
-### 💻 Programming Languages
-
 **🧠 Advanced:**  
 `Python`, `R`, `JavaScript`, `Java`, `C#`, `C++`, `LaTeX`, `VBA`, `Ruby`, `SQL`, `MATLAB`, `M` (Power Query)
 
