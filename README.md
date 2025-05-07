@@ -1,4 +1,4 @@
----# 👋 Hey there, I’m [@TylerDoiron-CDO](https://github.com/TylerDoiron-CDO)
+# 👋 Hey there, I’m [@TylerDoiron-CDO](https://github.com/TylerDoiron-CDO)
 
 ### 🔍 About Me
 
