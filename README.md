@@ -70,6 +70,7 @@
   `VS Code` · `GitHub` · `Notion` · `Obsidian`  
   `Figma` · `Miro` · `ArcGIS Online` · `QGIS`  
   `Discord` · `Zoom SDK` · `Google Workspace`
+
 ---
   
   ### 📬 Connect With Me
